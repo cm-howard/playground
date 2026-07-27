@@ -55,8 +55,6 @@ When contributing to any Uber Open Source project, you agree that you have autho
 
 You’re required to sign our [Contributor License Agreement](https://cla-assistant.io/uber) to confirm this and you’ll be prompted to do this when submitting your first contribution.
 
-## I Want to Contribute
-
 <a id="enhancements-and-features"></a>
 ## Enhancements and Features
 
